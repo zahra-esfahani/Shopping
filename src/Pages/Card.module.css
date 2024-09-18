@@ -1,0 +1,46 @@
+.img{
+    width:230px;
+    height: 230px;
+    padding:20px;
+    margin-bottom: 20px;
+}
+.container{
+    width: 270px;
+    padding: 20px;
+    background-color: white;
+    border: 2px dashed #e2e2e2;
+    border-radius:20px;
+    margin: 10px;
+    text-align: center;
+}
+.container h3{
+    text-align: left;
+    font-size: 1.1 rem;
+    color: #fd5b42;
+}
+.container p{
+    text-align: left;
+    color: #666;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin:  10px 0px 30px;
+}
+.icons{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icons a{
+    color: #fd5b42;
+    font-size: 1.5rem;
+}
+button{
+    color: white;
+    font-size: 1.5rem;
+    background-color: #fd5b42;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 30px;
+}
